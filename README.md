@@ -1,6 +1,8 @@
 # steller
 
-Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com
+
+Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.
+
 
 Product Page: https://wwww.devcrud.com/
 
